@@ -1,4 +1,4 @@
-# CVE-2024-38063 POC DEV
+# CVE 2024-38063 Research
 
 ## About
 This repository is a collection of all information I have gathered about [CVE 2024-38063](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2024-38063),
